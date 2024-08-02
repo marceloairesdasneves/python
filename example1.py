@@ -1,0 +1,1 @@
+print('Hello, World!, to learn and use Copilot GITHUB')
